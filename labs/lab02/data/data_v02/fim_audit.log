@@ -1,0 +1,12 @@
+2026-10-16 13:35:06,892 INFO Loading baseline file: labs/lab02/data/data_v02/baseline.json
+2026-10-16 13:35:06,893 INFO Scanning directory: labs/lab02/data/data_v02/monitored
+2026-10-16 13:35:06,895 WARNING MODIFIED labs/lab02/data/data_v02/monitored/config/app.conf expected=1f617b878bd7e7294c92ac91b300973ed43fa4050a29f3fc358d73e572c08d53 actual=f866bee313af7edd025e959d5d9f7e0d498c047202a4c4b51e19daa8e9a926de
+2026-10-16 13:35:06,895 WARNING MODIFIED labs/lab02/data/data_v02/monitored/scripts/backup.sh expected=0ce923617161cfd6cc7fe94207bcf4bf037409529b1d47f35fe1417c9b8c9a82 actual=cdbe633f90fac9474a7b22f26f4955110e589e1c8750df1f242a182cdd0c33c5
+2026-10-16 13:35:06,895 WARNING CREATED labs/lab02/data/data_v02/monitored/new/agent.conf size=25 sha256=6d310def326c890943373de55b489999b2361bff27db978853e52abb237bcfac
+2026-10-16 13:35:06,895 WARNING DELETED labs/lab02/data/data_v02/monitored/obsolete.txt
+2026-10-16 13:41:36,252 INFO Loading baseline file: labs/lab02/data/data_v02/baseline.json
+2026-10-16 13:41:36,253 INFO Scanning directory: labs/lab02/data/data_v02/monitored
+2026-10-16 13:41:36,254 WARNING MODIFIED labs/lab02/data/data_v02/monitored/config/app.conf expected=1f617b878bd7e7294c92ac91b300973ed43fa4050a29f3fc358d73e572c08d53 actual=f866bee313af7edd025e959d5d9f7e0d498c047202a4c4b51e19daa8e9a926de
+2026-10-16 13:41:36,254 WARNING MODIFIED labs/lab02/data/data_v02/monitored/scripts/backup.sh expected=0ce923617161cfd6cc7fe94207bcf4bf037409529b1d47f35fe1417c9b8c9a82 actual=cdbe633f90fac9474a7b22f26f4955110e589e1c8750df1f242a182cdd0c33c5
+2026-10-16 13:41:36,254 WARNING CREATED labs/lab02/data/data_v02/monitored/new/agent.conf size=25 sha256=6d310def326c890943373de55b489999b2361bff27db978853e52abb237bcfac
+2026-10-16 13:41:36,254 WARNING DELETED labs/lab02/data/data_v02/monitored/obsolete.txt
